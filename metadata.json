@@ -1,0 +1,6 @@
+{
+  "name": "AllFlix - Free Entertainment Hub",
+  "description": "Discover verified free legal movies, books, anime, games, and music websites in one curated entertainment directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
